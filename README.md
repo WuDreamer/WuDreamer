@@ -1,5 +1,6 @@
 ### Hi 欢迎来到我的GitHub！ 👋
-
+##### 花有重开日，人无再少年！ ✨
+#### 少年，珍惜时间吧！！！
 <!--
 **WuDreamer/WuDreamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
