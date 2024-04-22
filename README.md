@@ -1,3 +1,5 @@
+![暗色](https://raw.githubusercontent.com/WuDreamer/WuDreamer/output/github-contribution-grid-snake-dark.svg)
+![亮色](https://raw.githubusercontent.com/WuDreamer/WuDreamer/output/github-contribution-grid-snake.svg)
 ### Hi 欢迎来到我的GitHub！ 👋
 ##### 花有重开日，人无再少年！ ✨
 #### 少年，珍惜时间吧！！！
