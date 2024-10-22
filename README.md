@@ -14,11 +14,8 @@
 
 | JavaDog| 📫狗屋地址 |
 | :----:| :----: | 
-| ✨个人博客 | [https://wudreamer.github.io]((https://wudreamer.github.io/)) | 
 | 🤔CSDN  | [https://blog.csdn.net/2301_76761656?spm=1000.2115.3001.5343]((https://blog.csdn.net/2301_76761656?spm=1000.2115.3001.5343)) | 
 | 🌱掘金 | [https://juejin.cn/user/517202660305475]((https://juejin.cn/user/517202660305475))| 
-| 😄博客园 | [https://home.cnblogs.com/u/wudreamer]((https://home.cnblogs.com/u/wudreamer)) | 
-| 💬Gitee |[https://gitee.com/wubolang]((https://gitee.com/wubolang))  | 
 | 🔭GitHub |[https://github.com/WuDreamer]((https://github.com/WuDreamer))| 
 
 ![](https://raw.githubusercontent.com/WuDreamer/WuDreamer/refs/heads/output/github-contribution-grid-snake-dark.svg)
