@@ -1,3 +1,4 @@
+![Visitor Count](https://profile-counter.glitch.me/WuDreamer/count.svg)
 # ✨✨✨WuDreamer✨✨✨
 ### Hi 欢迎来到我的GitHub！ 👋
 ##### 花有重开日，人无再少年！ ✨
@@ -19,6 +20,8 @@
 | 🔭GitHub |[https://github.com/WuDreamer]((https://github.com/WuDreamer))| 
 
 ![](https://raw.githubusercontent.com/WuDreamer/WuDreamer/refs/heads/output/github-contribution-grid-snake-dark.svg)
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?WuDreamer=all-smile&show_icons=true&theme=tokyonight)
+
 <!--
 **WuDreamer/WuDreamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
