@@ -1,3 +1,10 @@
+
+<div align="center">
+  <a href="https://blog.sunguoqi.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=昨日之深渊,今日之浅谈;想的是你,放不下的还是你！&center=true&size=27" alt="Typing SVG" />
+  </a>
+</div>
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=28&desc=I%20am%20WuDreamer%F0%9F%98%81&descAlign=50&descSize=30&descAlignY=56&animation=twinkling" />
 </p>
@@ -10,11 +17,6 @@
 ##### 花有重开日，人无再少年！ ✨
 #### 少年，珍惜时间吧！！！
 
-<div align="center">
-  <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=昨日之深渊,今日之浅谈;想的是你,放不下的还是你！&center=true&size=27" alt="Typing SVG" />
-  </a>
-</div>
 
 
 ### 博客简介
