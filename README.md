@@ -42,13 +42,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 今年汇总 ✨
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=WuDreamer&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />   <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuDreamer&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=white&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=WuDreamer&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />   <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuDreamer&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=&locale=cn" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=WuDreamer&show_icons=true&hide_border=true&line_height=24&theme=graywhite"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=WuDreamer&show_icons=true&hide_border=true&line_height=24" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WuDreamer&layout=compact&hide_border=true&line_height=24&langs_count=8&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuDreamer&layout=compact&hide_border=true&line_height=24&langs_count=8" />
+</picture>
 
 
 
 
 
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=78&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=46&animation=twinkling" />
-</p>
