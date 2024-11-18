@@ -45,15 +45,15 @@ Here are some ideas to get you started:
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=WuDreamer&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />   <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuDreamer&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=&locale=cn" />
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=WuDreamer&show_icons=true&hide_border=true&&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79line_height=21&theme=graywhite"
-    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=WuDreamer&show_icons=true&hide_border=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79line_height=21&theme=graywhite"
+    media="(prefers-color-scheme: graywhite)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=WuDreamer&show_icons=true&hide_border=true&line_height=21" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WuDreamer&show_icons=true&hide_border=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79line_height=21&line_height=21" />
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WuDreamer&layout=compact&hide_border=true&line_height=21&langs_count=8&theme=graywhite"
-    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WuDreamer&layout=compact&hide_border=true&bg_color=0,73FA79,73FDFF,D783FF&line_height=21&langs_count=8&theme=graywhite"
+    media="(prefers-color-scheme: graywhite)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuDreamer&layout=compact&hide_border=true&line_height=21&bg_color=0,73FA79,73FDFF,D783FF&langs_count=8" />
 </picture>
