@@ -48,7 +48,7 @@ Here are some ideas to get you started:
     srcset="https://github-readme-stats.vercel.app/api?username=WuDreamer&show_icons=true&hide_border=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79line_height=21&theme=graywhite"
     media="(prefers-color-scheme: graywhite)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=WuDreamer&show_icons=true&hide_border=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79line_height=21&line_height=21" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WuDreamer&show_icons=true&hide_border=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&line_height=21&line_height=21" />
 </picture>
 <picture>
   <source
