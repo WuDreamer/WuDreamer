@@ -58,17 +58,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuDreamer&layout=compact&hide_border=true&line_height=21&bg_color=0,73FA79,73FDFF,D783FF&langs_count=7" />
 </picture>
 
-<style>
-  .github-stats {
-    display: flex;
-    align-items: center;
-    gap: 10px; /* 调整卡片之间的间距 */
-  }
-</style>
+
 
 <div class="github-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=WuDreamer&show_icons=true&hide_border=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&line_height=21&theme=graywhite" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuDreamer&layout=compact&hide_border=true&bg_color=0,73FA79,73FDFF,D783FF&langs_count=7&theme=graywhite" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuDreamer&layout=compact&hide_border=true&bg_color=0,73FA79,73FDFF,D783FF&langs_count=7&line_height=21&theme=graywhite" alt="Top Langs" />
 </div>
 
 
