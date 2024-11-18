@@ -52,10 +52,10 @@ Here are some ideas to get you started:
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WuDreamer&layout=compact&hide_border=true&bg_color=0,73FA79,73FDFF,D783FF&line_height=21&langs_count=8&theme=graywhite"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WuDreamer&layout=compact&hide_border=true&bg_color=0,73FA79,73FDFF,D783FF&line_height=21&langs_count=7&theme=graywhite"
     media="(prefers-color-scheme: graywhite)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuDreamer&layout=compact&hide_border=true&line_height=21&bg_color=0,73FA79,73FDFF,D783FF&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuDreamer&layout=compact&hide_border=true&line_height=21&bg_color=0,73FA79,73FDFF,D783FF&langs_count=7" />
 </picture>
 
 
